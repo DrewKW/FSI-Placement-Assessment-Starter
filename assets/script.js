@@ -1,4 +1,5 @@
 // First, tell us your name
+// Scripting
 let yourName = "Andrew Wokabi" // HINT: Replace this with your own name!
 
 // We'll use these variables to track the counts of each cookie type
